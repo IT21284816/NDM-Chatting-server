@@ -7,11 +7,13 @@
   - Use port number 6001 for the server and port number 6002 for the client programs.
  
 
+
 ## Tech Stack
 
 **Client:** Fedora , C
 
 **Server:** Centos 7, C
+
 
 
 ## Screenshots
